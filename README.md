@@ -25,4 +25,4 @@ Siber güvenlik, Pentest (Sızma Testi) ve Linux otomasyon araçları geliştirm
 
 ### 📧 İletişim
 
-* **E-posta:** cdQaifa@proton.me
+* **E-posta:** Qaifa@proton.me
