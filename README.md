@@ -1,4 +1,4 @@
-# Merhaba! Ben Qaifa (Erwald). 👋
+# Merhaba! Ben Erwald. 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cdQaifa&label=Profil+Görüntüleme&color=0e75b6&style=flat" alt="Profil Görüntüleme Sayısı" />
@@ -10,7 +10,7 @@
 
 Siber güvenlik, Pentest (Sızma Testi) ve Linux otomasyon araçları geliştirmeye odaklanmış bir geliştiriciyim. Terminali ve Python'ı kullanarak pratik çözümler üretmeyi seviyorum.
 
-> 🛡️ **Öne Çıkan Proje:** **[Qaifa - Linux Pentest Otomasyon Kiti](https://github.com/cdQaifa/Qaifa)**
+> 🛡️ **Öne Çıkan Proje:** **[Erwald - Linux Pentest Otomasyon Kiti](https://github.com/cdQaifa/Qaifa)**
 ---
 
 ### 🛠️ Beceri ve Teknoloji Alanlarım
@@ -25,4 +25,4 @@ Siber güvenlik, Pentest (Sızma Testi) ve Linux otomasyon araçları geliştirm
 
 ### 📧 İletişim
 
-* **E-posta:** Qaifa@proton.me
+* **E-posta:** erwald@hatesje.ws & Qaifa@proton.me 
